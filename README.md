@@ -7,8 +7,8 @@ Aqui está o repositório de certos códigos de cursos, durante todo o BootCamp 
   - Lógica de programação essencial :heavy_check_mark:
   - Aprenda o que são Estrutura de Dados e Algoritmos :heavy_check_mark:
   - <a href = "https://github.com/Davi-Mota-Nogueira/workspace-bootcamp-avanade/tree/master/livro-receitas">Introdução ao Git e ao GitHub</a> :heavy_check_mark:
-  - Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso :memo:
-  - IDE Instalação e Configuração (Visual Studio)
+  - Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso :heavy_check_mark:
+  - IDE Instalação e Configuração (Visual Studio) :memo:
   - Introdução ao C# e .NET
   - Primeiros passos com .NET + C# :heavy_check_mark:
   - Programando com Orientação a Objeto com C#
