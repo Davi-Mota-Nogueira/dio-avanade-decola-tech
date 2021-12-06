@@ -1,0 +1,2 @@
+Anotações para o curso de "Criando seu Primeiro Repositório no GitHub":
+- Relembrando algumas coisinhas
