@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1e5cd9fa-2eac-4361-ad34-cb16093a0e69": {
+      "ProjectGuid": "1e5cd9fa-2eac-4361-ad34-cb16093a0e69",
+      "DisplayName": "Teste-Gerando-Codigo",
+      "ColorIndex": 0
+    },
+    "f8c04e8c-5cbd-4817-b39d-4439579f3f2b": {
+      "ProjectGuid": "f8c04e8c-5cbd-4817-b39d-4439579f3f2b",
+      "DisplayName": "Teste-Gerando-CodigoTests",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
