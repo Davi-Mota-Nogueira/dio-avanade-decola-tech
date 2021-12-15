@@ -1,0 +1,15 @@
+C:\Avanade\workspace2021\dio-avanade-decola-tech\Introdução ao C# e dotNet\IntroducaoPratica\IntroducaoPratica\bin\Debug\net6.0\IntroducaoPratica.exe
+C:\Avanade\workspace2021\dio-avanade-decola-tech\Introdução ao C# e dotNet\IntroducaoPratica\IntroducaoPratica\bin\Debug\net6.0\IntroducaoPratica.deps.json
+C:\Avanade\workspace2021\dio-avanade-decola-tech\Introdução ao C# e dotNet\IntroducaoPratica\IntroducaoPratica\bin\Debug\net6.0\IntroducaoPratica.runtimeconfig.json
+C:\Avanade\workspace2021\dio-avanade-decola-tech\Introdução ao C# e dotNet\IntroducaoPratica\IntroducaoPratica\bin\Debug\net6.0\IntroducaoPratica.dll
+C:\Avanade\workspace2021\dio-avanade-decola-tech\Introdução ao C# e dotNet\IntroducaoPratica\IntroducaoPratica\bin\Debug\net6.0\ref\IntroducaoPratica.dll
+C:\Avanade\workspace2021\dio-avanade-decola-tech\Introdução ao C# e dotNet\IntroducaoPratica\IntroducaoPratica\bin\Debug\net6.0\IntroducaoPratica.pdb
+C:\Avanade\workspace2021\dio-avanade-decola-tech\Introdução ao C# e dotNet\IntroducaoPratica\IntroducaoPratica\obj\Debug\net6.0\IntroducaoPratica.csproj.AssemblyReference.cache
+C:\Avanade\workspace2021\dio-avanade-decola-tech\Introdução ao C# e dotNet\IntroducaoPratica\IntroducaoPratica\obj\Debug\net6.0\IntroducaoPratica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Avanade\workspace2021\dio-avanade-decola-tech\Introdução ao C# e dotNet\IntroducaoPratica\IntroducaoPratica\obj\Debug\net6.0\IntroducaoPratica.AssemblyInfoInputs.cache
+C:\Avanade\workspace2021\dio-avanade-decola-tech\Introdução ao C# e dotNet\IntroducaoPratica\IntroducaoPratica\obj\Debug\net6.0\IntroducaoPratica.AssemblyInfo.cs
+C:\Avanade\workspace2021\dio-avanade-decola-tech\Introdução ao C# e dotNet\IntroducaoPratica\IntroducaoPratica\obj\Debug\net6.0\IntroducaoPratica.csproj.CoreCompileInputs.cache
+C:\Avanade\workspace2021\dio-avanade-decola-tech\Introdução ao C# e dotNet\IntroducaoPratica\IntroducaoPratica\obj\Debug\net6.0\IntroducaoPratica.dll
+C:\Avanade\workspace2021\dio-avanade-decola-tech\Introdução ao C# e dotNet\IntroducaoPratica\IntroducaoPratica\obj\Debug\net6.0\ref\IntroducaoPratica.dll
+C:\Avanade\workspace2021\dio-avanade-decola-tech\Introdução ao C# e dotNet\IntroducaoPratica\IntroducaoPratica\obj\Debug\net6.0\IntroducaoPratica.pdb
+C:\Avanade\workspace2021\dio-avanade-decola-tech\Introdução ao C# e dotNet\IntroducaoPratica\IntroducaoPratica\obj\Debug\net6.0\IntroducaoPratica.genruntimeconfig.cache
