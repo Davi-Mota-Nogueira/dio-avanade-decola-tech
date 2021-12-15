@@ -9,9 +9,9 @@ Aqui está o repositório de certos códigos de cursos, durante todo o BootCamp 
   - <a href = "https://github.com/Davi-Mota-Nogueira/workspace-bootcamp-avanade/tree/master/livro-receitas">Introdução ao Git e ao GitHub</a> :heavy_check_mark:
   - Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso :heavy_check_mark:
   - IDE Instalação e Configuração (Visual Studio) :heavy_check_mark:
-  - Introdução ao C# e .NET :memo:
+  - Introdução ao C# e .NET :heavy_check_mark:
   - Primeiros passos com .NET + C# :heavy_check_mark:
-  - Programando com Orientação a Objeto com C#
+  - Programando com Orientação a Objeto com C# :memo:
   - Construtores, Propriedades, Delegates e Eventos em .NET
   - Criando o ambiente de  desenvolvimento
   - Fundamentos de Coleções e LINQ com .NET
