@@ -11,8 +11,8 @@ Aqui está o repositório de certos códigos de cursos, durante todo o BootCamp 
   - IDE Instalação e Configuração (Visual Studio) :heavy_check_mark:
   - Introdução ao C# e .NET :heavy_check_mark:
   - Primeiros passos com .NET + C# :heavy_check_mark:
-  - Programando com Orientação a Objeto com C# :memo:
-  - Construtores, Propriedades, Delegates e Eventos em .NET
+  - Programando com Orientação a Objeto com C# :heavy_check_mark:
+  - Construtores, Propriedades, Delegates e Eventos em .NET :memo:
   - Criando o ambiente de  desenvolvimento
   - Fundamentos de Coleções e LINQ com .NET
   - Introdução a microsserviços com .NET

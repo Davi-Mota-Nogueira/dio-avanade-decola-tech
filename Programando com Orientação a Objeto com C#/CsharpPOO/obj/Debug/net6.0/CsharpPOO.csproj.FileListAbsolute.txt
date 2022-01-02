@@ -1,0 +1,15 @@
+C:\Avanade\workspace2021\dio-avanade-decola-tech\Programando com Orientação a Objeto com C#\CsharpPOO\bin\Debug\net6.0\CsharpPOO.exe
+C:\Avanade\workspace2021\dio-avanade-decola-tech\Programando com Orientação a Objeto com C#\CsharpPOO\bin\Debug\net6.0\CsharpPOO.deps.json
+C:\Avanade\workspace2021\dio-avanade-decola-tech\Programando com Orientação a Objeto com C#\CsharpPOO\bin\Debug\net6.0\CsharpPOO.runtimeconfig.json
+C:\Avanade\workspace2021\dio-avanade-decola-tech\Programando com Orientação a Objeto com C#\CsharpPOO\bin\Debug\net6.0\CsharpPOO.dll
+C:\Avanade\workspace2021\dio-avanade-decola-tech\Programando com Orientação a Objeto com C#\CsharpPOO\bin\Debug\net6.0\ref\CsharpPOO.dll
+C:\Avanade\workspace2021\dio-avanade-decola-tech\Programando com Orientação a Objeto com C#\CsharpPOO\bin\Debug\net6.0\CsharpPOO.pdb
+C:\Avanade\workspace2021\dio-avanade-decola-tech\Programando com Orientação a Objeto com C#\CsharpPOO\obj\Debug\net6.0\CsharpPOO.csproj.AssemblyReference.cache
+C:\Avanade\workspace2021\dio-avanade-decola-tech\Programando com Orientação a Objeto com C#\CsharpPOO\obj\Debug\net6.0\CsharpPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Avanade\workspace2021\dio-avanade-decola-tech\Programando com Orientação a Objeto com C#\CsharpPOO\obj\Debug\net6.0\CsharpPOO.AssemblyInfoInputs.cache
+C:\Avanade\workspace2021\dio-avanade-decola-tech\Programando com Orientação a Objeto com C#\CsharpPOO\obj\Debug\net6.0\CsharpPOO.AssemblyInfo.cs
+C:\Avanade\workspace2021\dio-avanade-decola-tech\Programando com Orientação a Objeto com C#\CsharpPOO\obj\Debug\net6.0\CsharpPOO.csproj.CoreCompileInputs.cache
+C:\Avanade\workspace2021\dio-avanade-decola-tech\Programando com Orientação a Objeto com C#\CsharpPOO\obj\Debug\net6.0\CsharpPOO.dll
+C:\Avanade\workspace2021\dio-avanade-decola-tech\Programando com Orientação a Objeto com C#\CsharpPOO\obj\Debug\net6.0\ref\CsharpPOO.dll
+C:\Avanade\workspace2021\dio-avanade-decola-tech\Programando com Orientação a Objeto com C#\CsharpPOO\obj\Debug\net6.0\CsharpPOO.pdb
+C:\Avanade\workspace2021\dio-avanade-decola-tech\Programando com Orientação a Objeto com C#\CsharpPOO\obj\Debug\net6.0\CsharpPOO.genruntimeconfig.cache
