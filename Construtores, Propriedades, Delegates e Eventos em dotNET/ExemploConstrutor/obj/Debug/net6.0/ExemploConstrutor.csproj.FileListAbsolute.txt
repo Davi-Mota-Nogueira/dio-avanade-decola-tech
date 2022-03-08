@@ -1,0 +1,15 @@
+C:\Avanade\workspace2021\dio-avanade-decola-tech\Construtores, Propriedades, Delegates e Eventos em dotNET\ExemploConstrutor\bin\Debug\net6.0\ExemploConstrutor.exe
+C:\Avanade\workspace2021\dio-avanade-decola-tech\Construtores, Propriedades, Delegates e Eventos em dotNET\ExemploConstrutor\bin\Debug\net6.0\ExemploConstrutor.deps.json
+C:\Avanade\workspace2021\dio-avanade-decola-tech\Construtores, Propriedades, Delegates e Eventos em dotNET\ExemploConstrutor\bin\Debug\net6.0\ExemploConstrutor.runtimeconfig.json
+C:\Avanade\workspace2021\dio-avanade-decola-tech\Construtores, Propriedades, Delegates e Eventos em dotNET\ExemploConstrutor\bin\Debug\net6.0\ExemploConstrutor.dll
+C:\Avanade\workspace2021\dio-avanade-decola-tech\Construtores, Propriedades, Delegates e Eventos em dotNET\ExemploConstrutor\bin\Debug\net6.0\ref\ExemploConstrutor.dll
+C:\Avanade\workspace2021\dio-avanade-decola-tech\Construtores, Propriedades, Delegates e Eventos em dotNET\ExemploConstrutor\bin\Debug\net6.0\ExemploConstrutor.pdb
+C:\Avanade\workspace2021\dio-avanade-decola-tech\Construtores, Propriedades, Delegates e Eventos em dotNET\ExemploConstrutor\obj\Debug\net6.0\ExemploConstrutor.csproj.AssemblyReference.cache
+C:\Avanade\workspace2021\dio-avanade-decola-tech\Construtores, Propriedades, Delegates e Eventos em dotNET\ExemploConstrutor\obj\Debug\net6.0\ExemploConstrutor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Avanade\workspace2021\dio-avanade-decola-tech\Construtores, Propriedades, Delegates e Eventos em dotNET\ExemploConstrutor\obj\Debug\net6.0\ExemploConstrutor.AssemblyInfoInputs.cache
+C:\Avanade\workspace2021\dio-avanade-decola-tech\Construtores, Propriedades, Delegates e Eventos em dotNET\ExemploConstrutor\obj\Debug\net6.0\ExemploConstrutor.AssemblyInfo.cs
+C:\Avanade\workspace2021\dio-avanade-decola-tech\Construtores, Propriedades, Delegates e Eventos em dotNET\ExemploConstrutor\obj\Debug\net6.0\ExemploConstrutor.csproj.CoreCompileInputs.cache
+C:\Avanade\workspace2021\dio-avanade-decola-tech\Construtores, Propriedades, Delegates e Eventos em dotNET\ExemploConstrutor\obj\Debug\net6.0\ExemploConstrutor.dll
+C:\Avanade\workspace2021\dio-avanade-decola-tech\Construtores, Propriedades, Delegates e Eventos em dotNET\ExemploConstrutor\obj\Debug\net6.0\ref\ExemploConstrutor.dll
+C:\Avanade\workspace2021\dio-avanade-decola-tech\Construtores, Propriedades, Delegates e Eventos em dotNET\ExemploConstrutor\obj\Debug\net6.0\ExemploConstrutor.pdb
+C:\Avanade\workspace2021\dio-avanade-decola-tech\Construtores, Propriedades, Delegates e Eventos em dotNET\ExemploConstrutor\obj\Debug\net6.0\ExemploConstrutor.genruntimeconfig.cache
